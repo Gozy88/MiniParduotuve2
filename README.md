@@ -1,0 +1,2 @@
+# MiniParduotuve2
+ 

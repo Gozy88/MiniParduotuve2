@@ -1,0 +1,12 @@
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\bin\Debug\MiniParduotuve2.exe.config
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\bin\Debug\MiniParduotuve2.exe
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\bin\Debug\MiniParduotuve2.pdb
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.csprojAssemblyReference.cache
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.Form1.resources
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.Properties.Resources.resources
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.csproj.GenerateResource.cache
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.csproj.CoreCompileInputs.cache
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.exe
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.pdb
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.SukurtiPrekeForm.resources
+C:\Users\gozyo\OneDrive\Stalinis kompiuteris\C sharp\MiniParduotuve2\MiniParduotuve2\obj\Debug\MiniParduotuve2.KrepselisForm.resources
